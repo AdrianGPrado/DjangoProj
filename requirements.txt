@@ -1,0 +1,4 @@
+Django
+Quandl
+Bootstrap
+--upgrade django-crispy-forms
