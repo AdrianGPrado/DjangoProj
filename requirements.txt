@@ -1,4 +1,5 @@
-Django
-Quandl
-Bootstrap
---upgrade django-crispy-forms
+Django==1.8
+django-crispy-forms==1.6
+django-registration-redux==1.4
+bootstrap==3.3
+gunicorn==19.3.0
