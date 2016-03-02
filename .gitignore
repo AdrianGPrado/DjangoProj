@@ -1,0 +1,6 @@
+
+# Compiled python files
+*.pyc
+
+# BBDD do not need to be tracked
+db.sqlite3
